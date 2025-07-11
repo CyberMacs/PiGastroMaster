@@ -1,0 +1,24 @@
+{
+  "name": "Pi Gastro Master",
+  "short_name": "Gastro Master",
+  "description": "Személyre szabott étlap elemző Pi számára.",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#f59e0b",
+  "scope": "/"
+}

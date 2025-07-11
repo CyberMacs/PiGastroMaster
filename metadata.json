@@ -1,0 +1,8 @@
+{
+  "name": "Pi Gastro Master - PWA",
+  "description": "Egy MI-alapú étlap elemző, amely személyre szabott ételajánlásokat ad Pi számára egy étlapról készült fotó alapján, részletes ízlésbeli preferenciák felhasználásával.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
