@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gastro-master-v1';
+const CACHE_NAME = 'gastro-master-v2';
 
 // On install, pre-cache the app shell and other key assets.
 self.addEventListener('install', (event) => {
